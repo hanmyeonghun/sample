@@ -19,11 +19,10 @@
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/JungHyung2/gitio.io)
 >첫 번째 프로젝트 (팀 프로젝트) 
->개발 기간: 2023.10.01 ~ 2023.11.05  
+>개발 기간: 2023.11.22 ~ 2023.12.07 (3주) 
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Python / Flask / OpenCV /  
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-CLOUD-1/StrongRepo) 참고
 
