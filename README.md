@@ -17,7 +17,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/JungHyung2/gitio.io)
+### 1. [Drug is Death]([https://github.com/JungHyung2/gitio.io](https://github.com/2023-SMHRD-IS-CLOUD-1/StrongRepo))
 >첫 번째 프로젝트 (팀 프로젝트) 
 >개발 기간: 2023.11.22 ~ 2023.12.07 (3주) 
 >  
