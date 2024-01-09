@@ -22,7 +22,7 @@
 >개발 기간: 2023.11.22 ~ 2023.12.07 (3주) 
 >  
 >기술 스택:  
->Python / Flask / OpenCV /  
+>Python / Flask / OpenCV / Dlib 
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-CLOUD-1/StrongRepo) 참고
 
