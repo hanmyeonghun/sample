@@ -17,7 +17,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [Drug is Death]([https://github.com/JungHyung2/gitio.io](https://github.com/2023-SMHRD-IS-CLOUD-1/StrongRepo))
+### 1. [Drug is Death]((https://github.com/2023-SMHRD-IS-CLOUD-1/StrongRepo))
 >첫 번째 프로젝트 (팀 프로젝트) 
 >개발 기간: 2023.11.22 ~ 2023.12.07 (3주) 
 >  
@@ -28,3 +28,16 @@
 
 ---
 
+</br>
+
+## :pushpin: Projects
+### 1. [Let Towels]((https://github.com/2023-SMHRD-IS-CLOUD-1/Kingsman))
+>두 번째 프로젝트 (팀 프로젝트) 
+>개발 기간: 2023.11.22 ~ 2023.12.07 (3주) 
+>  
+>기술 스택:  
+>React / Axios / Spring boot / CSS / JavaScript 
+>  
+>[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-CLOUD-1/Kingsman) 참고
+
+---
