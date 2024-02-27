@@ -31,7 +31,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [Let Towels]((https://github.com/2023-SMHRD-IS-CLOUD-1/Kingsman))
+### 2. [Let Towels]((https://github.com/2023-SMHRD-IS-CLOUD-1/Kingsman))
 >두 번째 프로젝트 (팀 프로젝트) 
 >개발 기간: 2024.02.01 ~ 2023.02.28 (4주) 
 >  
